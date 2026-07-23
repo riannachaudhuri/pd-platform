@@ -15,3 +15,4 @@ pydub==0.25.1
 
 nolds==0.5.2
 pyrpde==0.1.3
+setuptools==80.9.0
