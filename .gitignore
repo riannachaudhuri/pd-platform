@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Uploaded recordings
+uploads/
+
+# Dataset (optional if very large)
+data/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Node
+frontend/node_modules/
+frontend/dist/
